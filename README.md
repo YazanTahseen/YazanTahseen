@@ -2,7 +2,7 @@
 A Computing smart device student from Jordan , currently in my final semester.
 
 ## What I'm working on
-- My graduation project (Flutter) 🎓
+My graduation project (Flutter) 🎓
 
 ## Tech Stack
 **Mobile:** Flutter & Dart, Android (Kotlin)  
