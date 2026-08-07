@@ -1,16 +1,16 @@
 ## Hi there 👋
+A Computing smart device student from Jordan , currently in my final semester.
 
-<!--
-**YazanTahseen/YazanTahseen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm working on
+- My graduation project (Flutter) 🎓
 
-Here are some ideas to get you started:
+## Tech Stack
+**Mobile:** Flutter & Dart, Android (Kotlin)  
+**Architecture:** MVVM, SOLID Principles  
+**Concepts:** System Design, Clean Code  
+**Tools:** VS Code, Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+- Android (Kotlin) 
+- Currently transitioning into Flutter  
+- Strong foundation in Software Engineering concepts
